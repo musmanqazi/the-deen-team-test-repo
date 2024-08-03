@@ -7,6 +7,8 @@ export default function Home() {
       <Typography variant="h3" textAlign="center" alignItems="center">Hello World</Typography>
       <Typography variant="h5" textAlign="center" alignItems="center">Usman Qazi</Typography>
       <Typography variant="h5" textAlign="center" alignItems="center">Ahad Ahmad</Typography>
+      
+      <Typography variant="h5" textAlign="center" alignItems="center">Ibrahim Israr</Typography>
     </Box>
   );
 }
